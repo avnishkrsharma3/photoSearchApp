@@ -1,0 +1,24 @@
+.card {
+    margin-top: 150px;
+    z-index: -1;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 25vw;
+    object-fit: cover;
+}
+.button {
+        font-size: 17px;
+        margin: 20px;
+        width: 200px;
+        border: none;
+        background-color: rgb(55, 73, 122);
+        color: white;
+}
+#pagination {
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    justify-content: center;
+}

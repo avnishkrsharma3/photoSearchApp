@@ -1,0 +1,82 @@
+
+.fixed {
+    position: fixed;
+    width: 100%;
+}
+#navbar {
+    width: 100%;
+    height: 110px;
+    margin: 0px;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    background-image: linear-gradient(rgb(149, 152, 217), rgb(48, 132, 143));
+    justify-content: space-between;
+}
+#search {
+    width: 1000px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    font-size: 18px;
+    padding: 2px;
+    padding-left: 4px;
+}
+
+#home {
+    font-family: sans-serif;
+    color: white;
+    background-color: rgb(76, 59, 92);
+    height: 42px;
+    width: 100px;
+    display: grid;
+    place-content: center;
+    border-radius: 4px;
+    margin: 10px;
+    border: none;
+}
+
+#login {
+    font-family: sans-serif;
+    color: white;
+    background-color: rgb(76, 59, 92);
+    height: 42px;
+    width: 100px;
+    display: grid;
+    place-content: center;
+    border-radius: 4px;
+    margin: 10px;
+    border: none;
+}
+
+#logout {
+    font-family: sans-serif;
+    color: white;
+    background-color: rgb(76, 59, 92);
+    height: 42px;
+    width: 100px;
+    display: grid;
+    place-content: center;
+    border-radius: 4px;
+    margin: 10px;
+    border: none;
+}
+
+#searchBtn {
+    font-family: sans-serif;
+    color: white;
+    background-color: rgb(76, 59, 92);
+    height: 42px;
+    width: 100px;
+    display: grid;
+    place-content: center;
+    border-radius: 4px;
+    margin: 10px;
+    border: none;
+}
+
+
+
+
+
+
